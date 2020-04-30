@@ -1,0 +1,19 @@
+{
+  "name": "day-three",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "bagusmahardhika",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  }
+}
